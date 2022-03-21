@@ -32,6 +32,6 @@ The Electrical team's repo.
 
 This semester sofware is working closely with hardware on three major projects: Computing Systems, Power Systems, and UI.
 
-
+n
 
 
